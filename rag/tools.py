@@ -24,11 +24,8 @@ def make_search_policy_tool(
     retriever = vector_store.as_retriever(search_kwargs={"k": RETRIEVER_K})
 
     def search_policy(question: str) -> str:
-        """Search the company's Inventory & Sales policy documents for information
-        about returns, bulk discounts, supplier terms, restocking, complaints,
-        shipping/delivery, warranties and repairs, customer credit terms, price
-        matching, damaged or lost shipments, stocktakes and shrinkage, gift cards
-        and store credit, or special orders and backorders."""
+        """Search the inventory policy documents for information
+        about batteries, kick, oil, black smoke"""
         matching_chunks = retriever.invoke(question)
         texts = [chunk.page_content for chunk in matching_chunks]
         if retrieval_log is not None:
