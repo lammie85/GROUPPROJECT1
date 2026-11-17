@@ -1,0 +1,262 @@
+VEHICLE & MOTORCYCLE MECHANICAL SUPPORT — KNOWLEDGE BASE
+GENERAL MAINTENANCE, TROUBLESHOOTING & REPAIR GUIDANCE
+
+PURPOSE
+This document provides general answers to common mechanical questions about cars,
+vans, trucks and motorcycles. It is intended for a mechanical-support assistant,
+workshop help desk or troubleshooting knowledge base.
+
+IMPORTANT SAFETY NOTICE
+This guide provides general information, not a substitute for the vehicle
+manufacturer's service manual or inspection by a qualified mechanic. Always use
+the correct vehicle-specific specifications. Do not work under a vehicle supported
+only by a jack. Disconnect the battery when a repair procedure requires it, taking
+care with systems that require electronic resets. Never open a hot radiator or
+coolant reservoir. If a vehicle has a fuel leak, smoke, burning smell, brake failure,
+steering failure or a serious warning light, stop safely and seek professional help.
+Never advise a user to drive a vehicle that may be unsafe.
+
+ENGINE STARTING & BATTERY
+Q: Why will my vehicle or motorcycle not start?
+A: Common causes include a weak or discharged battery, loose or corroded battery
+terminals, an empty fuel tank, a faulty starter motor, a failed starter relay, a
+blown fuse, an ignition fault or an engine immobiliser issue. Check the fuel level
+and whether the dashboard or lights come on. Listen for a click or slow cranking.
+Do not repeatedly crank the engine for long periods. If basic checks do not identify
+the problem, arrange a battery and starting-system test.
+
+Q: What does a clicking sound when starting mean?
+A: Rapid clicking often indicates low battery voltage or poor battery connections.
+A single click may indicate a starter solenoid, starter motor or wiring fault.
+Have the battery tested and terminals inspected before replacing components.
+
+Q: How do I know if the battery is failing?
+A: Possible signs include slow engine cranking, dim lights, dashboard resets,
+difficulty starting and repeated need for jump-starting. A battery test is needed
+to confirm its condition. Charging-system faults can also cause repeated battery
+failure.
+
+Q: Can I jump-start any vehicle or motorcycle?
+A: No. Follow the manufacturer's jump-start procedure and confirm the system
+voltage and battery type. Some motorcycles and modern vehicles have sensitive
+electronics. Never jump-start a damaged, leaking, frozen or swollen battery.
+If unsure, use roadside assistance or a qualified technician.
+
+ENGINE OVERHEATING & COOLING SYSTEM
+Q: Why is my engine overheating?
+A: Possible causes include low coolant, coolant leaks, a failed radiator fan,
+a faulty thermostat, a blocked radiator, a damaged water pump or a failed
+radiator cap. Stop in a safe place and switch off the engine if the temperature
+warning appears. Do not remove the radiator cap while hot. Allow the engine to
+cool and arrange an inspection.
+
+Q: What should I do if coolant is leaking?
+A: Do not continue driving if the leak is significant or the temperature rises.
+After the engine has cooled, check for visible leaks around hoses, radiator,
+reservoir and water pump. Do not put your hands near moving fans or belts.
+A mechanic should pressure-test the cooling system and repair the leak.
+
+Q: Can I use water instead of coolant?
+A: Water may be an emergency temporary measure only where the manufacturer's
+instructions permit it. Use the specified coolant mixture as soon as possible.
+Incorrect coolant or prolonged use of plain water can cause corrosion, deposits
+or freezing-related damage.
+
+ENGINE OIL & LUBRICATION
+Q: How often should engine oil be changed?
+A: Follow the manufacturer's service schedule, using the specified oil grade
+and quality. The interval depends on the engine, oil type, mileage, operating
+conditions and time. Severe traffic, dust, frequent short trips and heavy loads
+may require more frequent servicing.
+
+Q: What happens if engine oil is low?
+A: Low oil can cause excessive friction, overheating and serious engine damage.
+Check the oil level on level ground using the procedure in the owner's manual.
+If the oil-pressure warning light comes on while the engine is running, stop
+safely and switch off the engine. Do not continue driving until the cause is
+checked.
+
+Q: Why is my engine using too much oil?
+A: Possible causes include external leaks, worn piston rings, valve-seal wear,
+turbocharger problems or an incorrect oil grade. Record how much oil is added
+and over what distance, inspect for leaks and have the engine assessed.
+
+BRAKES & BRAKE SYSTEM
+Q: Why are my brakes making a squealing or grinding noise?
+A: Squealing may be caused by worn pads, dust, glazing or vibration. Grinding
+can indicate severely worn pads or metal-to-metal contact. Grinding, reduced
+braking performance or a brake warning light requires immediate inspection.
+Do not continue driving if braking is unsafe.
+
+Q: Why does the brake pedal feel soft or sink?
+A: Possible causes include air in the hydraulic system, a fluid leak, worn
+components or a failing master cylinder. Stop driving and arrange professional
+inspection. Do not attempt to solve a soft brake pedal by simply topping up fluid.
+
+Q: How often should brake pads be replaced?
+A: There is no single interval for every vehicle. Replacement depends on pad
+thickness, driving conditions, load and manufacturer limits. Have pads, discs,
+calipers and brake fluid inspected at scheduled services.
+
+TYRES, WHEELS & SUSPENSION
+Q: Why does my vehicle vibrate while driving?
+A: Common causes include unbalanced wheels, damaged tyres, incorrect tyre
+pressure, bent wheels, worn suspension parts or drivetrain faults. If vibration
+is severe, sudden or accompanied by unusual noise, stop safely and arrange
+inspection.
+
+Q: Why does my vehicle pull to one side?
+A: Possible causes include unequal tyre pressures, wheel-alignment problems,
+uneven tyre wear, a sticking brake or worn suspension components. Check tyre
+pressures against the vehicle label or manual. Have the steering and brakes
+inspected if the problem continues.
+
+Q: What tyre pressure should I use?
+A: Use the pressure specified on the vehicle's tyre-information label or in the
+owner's manual. Do not rely solely on the maximum pressure printed on the tyre.
+Check pressures when tyres are cold and use the correct specification for load.
+
+Q: When should tyres be replaced?
+A: Replace tyres when tread reaches the legal or manufacturer minimum, when
+there is exposed cord, bulging, deep cuts, sidewall damage, persistent pressure
+loss or age-related deterioration. A damaged sidewall should be assessed
+immediately by a tyre professional.
+
+TRANSMISSION, CLUTCH & DRIVE SYSTEM
+Q: Why is my manual vehicle difficult to change gears?
+A: Possible causes include low or incorrect transmission fluid, clutch adjustment
+or wear, hydraulic clutch faults, worn linkage or internal gearbox damage.
+Avoid forcing the gear lever. Arrange inspection if gears grind or engagement
+is difficult.
+
+Q: Why does my clutch slip?
+A: A slipping clutch may cause engine speed to rise without a matching increase
+in road speed. Common causes include worn friction material, oil contamination
+or a pressure-plate fault. Have it inspected promptly; continued use can cause
+further damage.
+
+Q: Why does an automatic transmission jerk or delay shifting?
+A: Possible causes include incorrect or degraded transmission fluid, electronic
+control faults, sensor problems or internal wear. Check the owner's manual for
+the correct fluid-check procedure. Do not add universal fluid or additives unless
+the manufacturer specifies them.
+
+MOTORCYCLE-SPECIFIC QUESTIONS
+Q: Why does my motorcycle stall at idle?
+A: Possible causes include incorrect idle speed, a dirty air filter, fuel-delivery
+problems, a vacuum leak, spark-plug faults or sensor issues on fuel-injected
+models. Check the service schedule and have the fuel and ignition systems
+inspected.
+
+Q: Why does my motorcycle chain make noise?
+A: The chain may be dry, too loose, too tight, worn or incorrectly aligned.
+Inspect and lubricate it according to the owner's manual. Measure chain slack
+at the specified point and adjust to the manufacturer's specification. Replace
+a chain and sprockets when wear limits are reached.
+
+Q: Why does my motorcycle lose power?
+A: Possible causes include restricted airflow, fuel-delivery problems, a blocked
+exhaust, ignition faults, low compression or overheating. Avoid high-speed riding
+until the cause is identified.
+
+Q: Why does my motorcycle wobble?
+A: Possible causes include incorrect tyre pressure, damaged tyres, loose wheel
+bearings, steering-head bearing wear, wheel misalignment or suspension faults.
+Reduce speed gradually, avoid abrupt steering or braking, stop safely and arrange
+inspection. Do not continue riding if the wobble persists.
+
+ELECTRICAL SYSTEM & WARNING LIGHTS
+Q: Why does my battery keep going flat?
+A: Possible causes include an ageing battery, faulty alternator or motorcycle
+charging system, loose connections, parasitic electrical drain or accessories
+left switched on. A technician should test battery condition, charging voltage
+and key-off current draw.
+
+Q: What should I do when a warning light appears?
+A: Identify the symbol using the owner's manual. Red warnings, oil-pressure
+warnings, overheating warnings and brake-system warnings generally require
+stopping as soon as it is safe. An amber warning often indicates a fault that
+needs diagnosis soon. Do not ignore warning lights or clear fault codes without
+addressing the underlying issue.
+
+Q: What does the check-engine light mean?
+A: It indicates that the engine-management system has detected a fault. The
+cause may be minor or serious. A diagnostic scan can retrieve fault codes, but
+the code alone does not prove which component must be replaced. Diagnose the
+system before replacing parts. If the light flashes, the engine runs roughly or
+power drops significantly, stop safely and seek professional assistance.
+
+FUEL, EXHAUST & PERFORMANCE
+Q: Why is fuel consumption higher than normal?
+A: Possible causes include low tyre pressure, a clogged air filter, faulty sensors,
+poor-quality fuel, dragging brakes, incorrect engine temperature or changes in
+driving conditions. Compare consumption over several refills and have the
+engine and fuel systems checked if the change persists.
+
+Q: Why is black, blue or white smoke coming from the exhaust?
+A: Black smoke can indicate excess fuel or incomplete combustion. Blue smoke
+often indicates engine oil burning. Persistent thick white smoke after warm-up
+may indicate coolant entering the combustion chamber, although condensation
+can produce light vapour when cold. Stop and seek inspection if smoke is heavy,
+persistent or accompanied by overheating or fluid loss.
+
+ROUTINE PREVENTIVE MAINTENANCE
+- Follow the vehicle manufacturer's service schedule and use approved parts
+  and fluids of the specified grade.
+- Check engine oil, coolant, brake fluid and other service fluids at the intervals
+  stated in the owner's manual.
+- Inspect tyres for pressure, tread wear, cuts and bulges.
+- Check lights, indicators, horn, mirrors, wipers and washers.
+- Inspect brake operation and listen for unusual noises.
+- For motorcycles, inspect chain condition, lubrication, slack, sprockets,
+  controls, lights and tyre condition.
+- Replace filters, spark plugs, belts and other service items at the specified
+  intervals.
+- Keep records of mileage, service dates, repairs and parts replaced.
+
+DIAGNOSTIC & REPAIR WORKFLOW
+1. Collect the vehicle make, model, year, engine size and mileage.
+2. Ask whether the vehicle is a car, van, truck or motorcycle.
+3. Record the exact symptom, when it occurs and whether it is constant or
+   intermittent.
+4. Ask about warning lights, unusual sounds, smells, leaks, smoke or vibration.
+5. Ask when the problem began and whether recent repairs, servicing, accidents
+   or part replacements occurred.
+6. Perform safe visual checks and use suitable diagnostic equipment.
+7. Compare findings with manufacturer specifications and service information.
+8. Identify the root cause before recommending parts or repairs.
+9. Explain the repair, required parts, estimated labour and risks before work
+   begins.
+10. Test the repair safely and document the work completed.
+
+INFORMATION TO COLLECT BEFORE ANSWERING A MECHANICAL QUESTION
+- Vehicle type: car, van, truck or motorcycle
+- Make and model
+- Year of manufacture
+- Engine size and fuel type
+- Current mileage or odometer reading
+- Exact problem or symptom
+- When the problem occurs: starting, idle, acceleration, braking or cruising
+- Warning lights or diagnostic trouble codes
+- Recent maintenance or repairs
+- Any visible leak, smoke, unusual sound, smell or vibration
+
+ASSISTANT RESPONSE RULES
+- Give clear, practical and cautious explanations in plain language.
+- Ask for the vehicle make, model, year and symptoms when needed.
+- Start with safe, simple checks; do not recommend risky roadside repairs.
+- Never guess a torque value, fluid capacity, tyre pressure, wiring connection,
+  service interval or part specification. Ask for vehicle details and consult
+  manufacturer information.
+- A diagnostic trouble code is evidence of a detected system fault, not automatic
+  proof that a named part has failed.
+- Do not recommend replacing expensive components without testing.
+- Explain when a qualified mechanic, auto electrician or specialist is required.
+- Do not instruct users to bypass safety systems, airbags, ABS, immobilisers,
+  emissions controls or other protective equipment.
+- Do not advise driving or riding when brakes, steering, tyres, wheels, fuel
+  systems or engine temperature may make the vehicle unsafe.
+- For severe or uncertain faults, recommend stopping safely and arranging
+  professional inspection.
+
+END OF MECHANICAL SUPPORT KNOWLEDGE BASE

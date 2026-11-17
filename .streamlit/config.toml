@@ -1,0 +1,15 @@
+# Theme for the Inventory & Sales assistant.
+# Clean light look with a deep retail-green accent — set in config, no CSS.
+
+[theme]
+base = "light"
+primaryColor = "#0b6e4f"                    # deep retail green
+backgroundColor = "#fdfefc"
+secondaryBackgroundColor = "#eef4f1"        # widgets, expanders, code
+textColor = "#1c2b26"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius = "medium"
+
+[browser]
+gatherUsageStats = false
