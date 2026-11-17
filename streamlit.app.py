@@ -74,7 +74,7 @@ def get_pipeline(file_hash: str) -> Pipeline:
 # Header
 # ---------------------------------------------------------------------------
 head_left, head_right = st.columns([0.85, 0.15], vertical_alignment="center")
-head_left.markdown("## :material/inventory_2: Inventory assistant")
+head_left.markdown("## :material/inventory_2: Mechanical Assistant BOT")
 head_right.button("New chat", on_click=new_chat)
 
 try:
