@@ -20,7 +20,7 @@ from rag.pipeline import Pipeline, ask_assistant, build_pipeline, stream_answer
 
 st.set_page_config(
     page_title="Mechanical Faults",
-    page_icon="📦",
+    page_icon="📦⚙️",
     layout="centered",
 )
 
