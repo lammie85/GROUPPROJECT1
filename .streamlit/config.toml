@@ -2,7 +2,7 @@
 # Clean light look with a deep retail-green accent — set in config, no CSS.
 
 [theme]
-base = "light"
+base = "dark"
 primaryColor = "#0b6e4f"                    # deep retail green
 backgroundColor = "#fdfefc"
 secondaryBackgroundColor = "#eef4f1"        # widgets, expanders, code
