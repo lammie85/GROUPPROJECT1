@@ -47,7 +47,7 @@ SUGGESTIONS = {
 }
 
 WELCOME = (
-    "Ask me anything about **batterys, tires, kick starters** — answers come straight from "
+    "Ask me anything about **batteries, tires, kick starters** — answers come straight from "
     "the store's policy documents."
 )
 
