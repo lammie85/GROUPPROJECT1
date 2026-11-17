@@ -1,4 +1,4 @@
-"""STAGE 7: the agent.
+"""STAGE 7: THE AGENT
 
 `create_agent` is LangChain's newer, higher-level way to build an agent:
 it wires the model, tools, and system prompt into a LangGraph graph.
@@ -16,7 +16,7 @@ SYSTEM_PROMPT = (
 
 
 def build_agent(llm: BaseChatModel, tools: list) -> CompiledStateGraph:
-    """Assemble the Inventory & Sales assistant."""
+    """MECHANICAL BOT assistant."""
     return create_agent(
         model=llm,
         tools=tools,
