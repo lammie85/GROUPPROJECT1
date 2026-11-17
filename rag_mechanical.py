@@ -145,7 +145,7 @@ def search_policy(question: str) -> str:
 #STAGE 7 — THE AGENT
 
 SYSTEM_PROMPT = (
-    "You are a friendly mechanical repairs inventory."
+    "You are a friendly mechanical repairs bot."
 )
 
 inventory_assistant = create_agent(
@@ -216,7 +216,7 @@ if __name__ == "__main__":
     ask_assistant("How do I start my car?")
     ask_assistant(
         "I have a flat tire?")
-    ask_assistant("What are the supplier payment terms?")
+    ask_assistant("Oil is leaking?")
 
     # 2) Drop into an interactive chat.
     print()
