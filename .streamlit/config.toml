@@ -3,10 +3,10 @@
 
 [theme]
 base = "dark"
-primaryColor = "#0b6e4f"                    # deep retail green
-backgroundColor = "#fdfefc"
+primaryColor = "#6bd6b6"                    # deep retail green
+backgroundColor = "#152406"
 secondaryBackgroundColor = "#eef4f1"        # widgets, expanders, code
-textColor = "#1c2b26"
+textColor = "#f14596"
 font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
 headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
 baseRadius = "medium"
