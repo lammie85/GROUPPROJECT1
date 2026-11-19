@@ -55,8 +55,10 @@ SUGGESTIONS = {
 }
 
 WELCOME = (
-    "Ask me anything about **batteries, tires, kick starters** — answers come straight from "
-    "the store's policy documents."
+    "Ask me anything about **batteries, tires, kick starters"
+    "My answers are based on the mechanical support base. "
+    "For safety-critical problems, always seek assistance from a "
+    "qualified auto-mechanic.
 )
 
 
