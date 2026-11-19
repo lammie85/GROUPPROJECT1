@@ -58,7 +58,7 @@ WELCOME = (
     "Ask me anything about **batteries, tires, kick starters"
     "My answers are based on the mechanical support base. "
     "For safety-critical problems, always seek assistance from a "
-    "qualified auto-mechanic.
+    "qualified auto-mechanic."
 )
 
 
