@@ -1,7 +1,15 @@
 """Mechanical Faults Answer — a simple chat interface.
 
 A minimal Streamlit chat over the RAG pipeline in the `rag/` package:
-title, suggestion chips on first load, streamed answers, that's it.
+
+FEATURES:
+
+- Title 
+- Suggestion chips on first load
+- Streamed Responses
+- Chat interface
+- Suggested mechanical questions
+- New chat button
 
 Run with:  streamlit run streamlit_app.py
 """
@@ -19,8 +27,8 @@ from rag.config import DATA_FILE_PATH, ConfigError  # pyright: ignore[reportMiss
 from rag.pipeline import Pipeline, ask_assistant, build_pipeline, stream_answer
 
 st.set_page_config(
-    page_title="Mechanical Faults",
-    page_icon="📦⚙️",
+    page_title="Vehicle & Motorcycle Mechanical Support Assistant",
+    page_icon="🔧⚙️",
     layout="centered",
 )
 
@@ -74,7 +82,7 @@ def get_pipeline(file_hash: str) -> Pipeline:
 # Header
 # ---------------------------------------------------------------------------
 head_left, head_right = st.columns([0.85, 0.15], vertical_alignment="center")
-head_left.markdown("## :material/inventory_2: Mechanical Assistant BOT")
+head_left.markdown("## :material/inventory_2: 🔧 Mechanical Assistant BOT")
 head_right.button("New chat", on_click=new_chat)
 
 try:
